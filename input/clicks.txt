@@ -1,0 +1,10 @@
+zhangsan,www.baidu.com,15678900001
+alex,./home,15678902001
+mary,./cart,15678904001
+Bob,./product,15688900001
+alex,./cart,15678912001
+mary,./pay,15678904004
+Bob,./product2,15688900081
+alex,./product10,15678912001
+mary,./pay,15678909001
+Bob,./byebye,15688900004
